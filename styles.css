@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+
+div{
+	Max-width: Around 600px;
+    Margin: 10px;
+    Padding: 15px;
+    Border-left: 8px solid green;
+    Background-color: #f8fffe;
+    Font-weight: Bold;
+}
